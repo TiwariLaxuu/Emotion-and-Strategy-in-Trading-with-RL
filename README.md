@@ -1,5 +1,8 @@
 # Emotion-and-Strategy-in-Trading-with-RL
+
 https://medium.com/@Laxmi_Tiwari/exploring-the-intersection-of-emotion-and-strategy-in-algorithmic-trading-through-reinforcement-3703dfe3f742 
+
+
 Embarking on the journey of algorithmic trading mirrors setting sail on an expansive and enigmatic ocean. Navigating through the unpredictable currents of financial markets presents a roller coaster of emotions, from exhilarating highs to daunting lows. Each decision carries the weight of potential success or failure, amplifying the intensity of every trade.
 
 Imagine standing on the precipice, peering into the abyss of endless possibilities. The rush of anticipation fuels your veins as you prepare to take that courageous first step. With each trade, your heartbeat synchronizes with the market’s rhythm, pulsating in harmony with its flow. Amidst uncertainty, it’s the unwavering strength of your resolve and the clarity of your vision that serve as guiding beacons through the storm.
